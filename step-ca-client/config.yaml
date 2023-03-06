@@ -7,7 +7,7 @@ arch:
 description: SSL/TLS certificates from your own PKI
 hassio_api: true
 hassio_role: manager
-image: ghcr.io/miguelangel-nubla/hassio-step-ca-client/{arch}
+image: ghcr.io/miguelangel-nubla/step-ca-client/{arch}
 init: false
 map:
 - ssl:rw
