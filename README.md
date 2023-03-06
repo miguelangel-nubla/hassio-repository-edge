@@ -32,6 +32,19 @@ https://github.com/miguelangel-nubla/hassio-repository
 
 ## Add-ons provided by this repository
 
+### &#10003; [step-ca-client][addon-step-ca-client]
+
+![Latest Version][step-ca-client-version-shield]
+![Supports armhf Architecture][step-ca-client-armhf-shield]
+![Supports armv7 Architecture][step-ca-client-armv7-shield]
+![Supports aarch64 Architecture][step-ca-client-aarch64-shield]
+![Supports amd64 Architecture][step-ca-client-amd64-shield]
+![Supports i386 Architecture][step-ca-client-i386-shield]
+
+SSL/TLS certificates from your own PKI
+
+[:books: step-ca-client add-on documentation][addon-doc-step-ca-client]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -50,6 +63,7 @@ You could open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: step-ca-client][step-ca-client-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -79,6 +93,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/tree/v0.1.0
+[addon-doc-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/blob/v0.1.0/README.md
+[step-ca-client-issue]: https://github.com/miguelangel-nubla/hassio-step-ca-client/issues
+[step-ca-client-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[step-ca-client-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[step-ca-client-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[step-ca-client-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[step-ca-client-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[step-ca-client-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/miguelangel-nubla/hassio-repository/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/miguelangel-nubla/hassio-repository/pipelines
 [issue]: https://github.com/miguelangel-nubla/hassio-repository/issues
