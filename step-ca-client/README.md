@@ -15,9 +15,7 @@ This repository was created for:
 
 If you are more interested in stable releases of my add-ons:
 
-<https://github.com/miguelangel-nubla/hassio-repository>
-
-# Home Assistant Add-on: step-ca-client
+<https://github.com/miguelangel-nubla/hassio-repository># Home Assistant Add-on: step-ca-client
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
