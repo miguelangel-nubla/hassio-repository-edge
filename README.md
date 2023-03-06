@@ -9,18 +9,13 @@
 The installation of this add-on is pretty straightforward and not different
 compared to installing any other Home Assistant add-on.
 
-1. First you will need to add the repository to your add-on store with the
+1. First you will need to add this repository to your add-on store with the
    following button:
 
    [![Add the add-on repository to your Home Assistant instance.][addon-add-repo-badge]][addon-add-repo]
 
 2. Click on ADD to complete adding the repository.
-3. Browse the Add-on Store for the section miguelangel-nubla Home Assistant
-   Add-ons and install the add-on you need.
-
-```txt
-https://github.com/miguelangel-nubla/hassio-repository
-```
+3. Browse the Add-on Store for the section `miguelangel-nubla Home Assistant Add-ons` and install the add-on you need.
 
 ## Add-ons provided by this repository
 
