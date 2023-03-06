@@ -4,27 +4,18 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-## About
-
-Home Assistant allows anyone to create add-on repositories to share their
-add-ons for Home Assistant easily. This repository is one of those repositories,
-providing extra Home Assistant add-ons for your installation.
-
-The primary goal of this project is to provide you (as a Home Assistant user)
-with additional, high quality, add-ons that allow you to take your automated
-home to the next level.
-
 ## Installation
 
-In general, there is no need to install this repository on your
-Home Assistant instance. It is activated and added by Home Assistant
-by default.
+The installation of this add-on is pretty straightforward and not different
+compared to installing any other Home Assistant add-on.
 
-However, if the repository is missing on your setup, adding this add-ons
-repository to your Home Assistant instance is pretty easy. In the
-Home Assistant add-on store, a possibility to add a repository is provided.
+1. First you will need to add the repository to your add-on store with the
+   following button:
 
-Use the following URL to add this repository:
+   [![Add the add-on repository to your Home Assistant instance.][addon-add-repo-badge]][addon-add-repo]
+
+2. Click on ADD to complete adding the repository.
+3. Browse the Add-on Store for the section miguelangel-nubla Home Assistant Add-ons
 
 ```txt
 https://github.com/miguelangel-nubla/hassio-repository
@@ -93,6 +84,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-repository
+[addon-add-repo-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [addon-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/tree/v0.1.0
 [addon-doc-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/blob/v0.1.0/README.md
 [step-ca-client-issue]: https://github.com/miguelangel-nubla/hassio-step-ca-client/issues
