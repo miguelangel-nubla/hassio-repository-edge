@@ -15,7 +15,7 @@ This repository was created for:
 
 If you are more interested in stable releases of my add-ons:
 
-<https://github.com/miguelangel-nubla/hassio-step-ca-client>
+<https://github.com/miguelangel-nubla/hassio-repository>
 
 # Home Assistant Add-on: step-ca-client
 
@@ -114,9 +114,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[addon-add]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=133adb15_step-ca-client&repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-step-ca-client
+[addon-add]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=133adb15_step-ca-client&repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-repository-edge
 [addon-add-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-step-ca-client
+[addon-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-repository-edge
 [addon-add-repo-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [addon-example]: https://github.com/hassio-addons/addon-example
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
