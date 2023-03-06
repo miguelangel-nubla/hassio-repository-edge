@@ -41,5 +41,5 @@ schema:
   - str
   token: password
 slug: step-ca-client
-url: https://github.com/miguelangel-nubla/hassio-step-ca-client
-version: 14d0e59
+url: https://github.com/miguelangel-nubla/step-ca-client
+version: 5459d58
