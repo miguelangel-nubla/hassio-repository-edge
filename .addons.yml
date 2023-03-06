@@ -4,4 +4,4 @@ addons:
   step-ca-client:
     repository: miguelangel-nubla/hassio-step-ca-client
     target: step-ca-client
-    image: ghcr.io/miguelangel-nubla/hassio-step-ca-client/{arch}
+    image: ghcr.io/miguelangel-nubla/step-ca-client/{arch}
