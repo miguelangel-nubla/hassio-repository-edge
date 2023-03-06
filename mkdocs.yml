@@ -1,10 +1,10 @@
 ---
 # Project information
-site_name: "Home Assistant Community Add-ons"
-site_url: "https://addons.community"
-site_description: "The primary goal of this project is to provide you (as a Home Assistant user) with additional, high quality, add-ons that allow you to take your automated home to the next level."
-site_author: "Franck Nijhof"
-copyright: "Copyright 2017-2020 - Franck Nijhof."
+site_name: "miguelangel-nubla Home Assistant Add-ons"
+site_url: "https://github.com/miguelangel-nubla/hassio-repository"
+site_description: ""
+site_author: "Miguel Angel Nubla"
+copyright: "Copyright 2023 - Miguel Angel Nubla.Copyright 2017-2020 - Franck Nijhof."
 
 # Repository
 repo_name: "hassio-addons"
@@ -32,17 +32,7 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/brands/github-alt
-      link: "https://github.com/hassio-addons"
-    - icon: fontawesome/brands/twitter
-      link: "https://twitter.com/hassioaddons"
-    - icon: fontawesome/brands/instagram
-      link: "https://instagram.com/frenck"
-    - icon: fontawesome/brands/twitch
-      link: "https://twitch.tv/frenck"
-    - icon: fontawesome/brands/youtube
-      link: "https://youtube.com/frenck"
-    - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/frenck"
+      link: "https://github.com/miguelangel-nubla/hassio-repository"
 
 # Extensions
 markdown_extensions:
@@ -66,9 +56,7 @@ markdown_extensions:
 
 # The pages to serve
 nav:
-  - "Our Add-ons": "index.md"
-  - "Beta Add-ons": "beta.md"
-  - "Edge Add-ons": "edge.md"
+  - "My Add-ons": "index.md"
   - "Contributing": "contributing.md"
   - "Code of Conduct": "code-of-conduct.md"
   - "License": "license.md"
