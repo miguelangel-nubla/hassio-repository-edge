@@ -38,19 +38,6 @@ compared to installing any other Home Assistant add-on.
 
 ## Add-ons provided by this repository
 
-### &#10003; [step-ca-client][addon-step-ca-client]
-
-![Latest Version][step-ca-client-version-shield]
-![Supports armhf Architecture][step-ca-client-armhf-shield]
-![Supports armv7 Architecture][step-ca-client-armv7-shield]
-![Supports aarch64 Architecture][step-ca-client-aarch64-shield]
-![Supports amd64 Architecture][step-ca-client-amd64-shield]
-![Supports i386 Architecture][step-ca-client-i386-shield]
-
-SSL/TLS certificates from your own PKI
-
-[:books: step-ca-client add-on documentation][addon-doc-step-ca-client]
-
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -69,7 +56,6 @@ You could open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: step-ca-client][step-ca-client-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -101,15 +87,6 @@ SOFTWARE.
 
 [addon-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-repository-edge
 [addon-add-repo-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
-[addon-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/tree/v1.0.0
-[addon-doc-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/blob/v1.0.0/README.md
-[step-ca-client-issue]: https://github.com/miguelangel-nubla/hassio-step-ca-client/issues
-[step-ca-client-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
-[step-ca-client-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[step-ca-client-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[step-ca-client-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[step-ca-client-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[step-ca-client-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/miguelangel-nubla/hassio-repository-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/miguelangel-nubla/hassio-repository-edge/pipelines
 [issue]: https://github.com/miguelangel-nubla/hassio-repository-edge/issues
