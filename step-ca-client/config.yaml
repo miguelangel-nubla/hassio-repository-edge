@@ -43,4 +43,4 @@ schema:
   token: password
 slug: step-ca-client
 url: https://github.com/miguelangel-nubla/step-ca-client
-version: ca00515
+version: 88aabee
