@@ -101,10 +101,10 @@ SOFTWARE.
 
 [addon-add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-repository-edge
 [addon-add-repo-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
-[addon-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/tree/155f66e
-[addon-doc-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/blob/155f66e/README.md
+[addon-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/tree/4e34f07
+[addon-doc-step-ca-client]: https://github.com/miguelangel-nubla/hassio-step-ca-client/blob/4e34f07/README.md
 [step-ca-client-issue]: https://github.com/miguelangel-nubla/hassio-step-ca-client/issues
-[step-ca-client-version-shield]: https://img.shields.io/badge/version-155f66e-blue.svg
+[step-ca-client-version-shield]: https://img.shields.io/badge/version-4e34f07-blue.svg
 [step-ca-client-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [step-ca-client-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [step-ca-client-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
