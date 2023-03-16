@@ -1,3 +1,2 @@
-## What’s changed
-
-Bugfix release
+# Changelog since v1.0.2
+- Update lock.yaml 
