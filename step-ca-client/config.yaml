@@ -1,5 +1,5 @@
 name: step-ca-client
-version: a5fd147
+version: ff46329
 slug: step-ca-client
 description: SSL/TLS certificates from your own PKI
 url: https://github.com/miguelangel-nubla/step-ca-client
@@ -12,9 +12,6 @@ map:
 arch:
 - aarch64
 - amd64
-- armhf
-- armv7
-- i386
 options:
   ca_url: https://tinyca.internal
   root_ca_fingerprint: ''
