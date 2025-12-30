@@ -107,9 +107,9 @@ SOFTWARE.
 [step-ca-client-version-shield]: https://img.shields.io/badge/version-a5fd147-blue.svg
 [step-ca-client-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [step-ca-client-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[step-ca-client-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[step-ca-client-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[step-ca-client-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[step-ca-client-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[step-ca-client-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[step-ca-client-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [gitlabci-shield]: https://gitlab.com/miguelangel-nubla/hassio-repository-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/miguelangel-nubla/hassio-repository-edge/pipelines
 [issue]: https://github.com/miguelangel-nubla/hassio-repository-edge/issues
