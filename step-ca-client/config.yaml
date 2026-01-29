@@ -1,5 +1,5 @@
 name: step-ca-client
-version: ff46329
+version: 9a2af82
 slug: step-ca-client
 description: SSL/TLS certificates from your own PKI
 url: https://github.com/miguelangel-nubla/step-ca-client
